@@ -43,7 +43,7 @@ For full data analysis check excel file Project delaysK.xsx
 This document outlines the detailed technical steps, tools, and approaches used to analyze the airline delays dataset. It is designed for readers interested in the underlying processes, calculations, and data handling techniques.![image](https://github.com/user-attachments/assets/36c0d4d0-4b92-475b-a69c-4db17a925736)
 
 ### How to use this project 
-### 1 Download the excel file  
+1 Download the excel file  
 2 open in excel 
 Ensure that macros are enabled if using .xlsm (macro-enabled workbook)
 Review pivot tables and charts for insights
