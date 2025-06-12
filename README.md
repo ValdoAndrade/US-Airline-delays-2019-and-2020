@@ -37,6 +37,11 @@ Open summary_findings to see key insights in a clean format
 
 For full data analysis check excel file Project delaysK.xsx
 
+
+![image](https://github.com/user-attachments/assets/3aadb700-d6c7-4221-af76-bd89cdce7211)
+
+
+
 ### Recomendations
 - Allow more turnaround time and improve maintenance planning with predictive IT systems.
 - Implement regular staff training 
