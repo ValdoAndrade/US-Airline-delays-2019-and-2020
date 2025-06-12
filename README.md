@@ -22,6 +22,9 @@ Microsoft Excel: Data cleaning, Pivot tables, Visualisation and calculations.
 1- data loading and inspections
 2-Categorized delay reasons and month 
 
+### Data Dictionary
+https://github.com/ValdoAndrade/US-Airline-delays-2019-and-2020/blob/main/Data%20dictionary.txt Descriptions and definitions for each dataset variable.
+
 ### Limitations 
 -ExpressJet Airlines LLC for the year 2020 year is not provided 
 -The departure and arrival times  are not provided, which is a significant factor
