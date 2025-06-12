@@ -1,0 +1,23 @@
+A dataset with 3351 rows and 21 variables.
+|----------------------|--------------------------------------------------------------|
+| `year`=Year of data collection                                     
+| `month’-=December                                         
+| `carrier`=Carrier code                                               
+| `carrier_name`=Full airline name                                            
+| `airport’-=Airport IATA code                                            
+| `airport_name`=Full airport name                                            
+| `arr_flights`=Total number of arriving flights                             
+| `arr_del15’=Flights delayed more than 15 minutes                         
+| `carrier_ct’=Delays caused by carrier (e.g. crew issues)                  
+| `weather_ct`=Number of flights delayed due to air carrier
+| `nas_ct`=Flights delayed due to National Aviation System (e.g., traffic)       
+| `security_ct’=Flights cancelled due to security breach                     
+| `late_aircraft_ct’=Flights delayed due to late incoming aircraft                         
+| `arr_cancelled`=Number of cancelled arrivals                                 
+| `arr_diverted`=Number of diverted arrivals                              
+| `arr_delay`=Total minutes delayed (arrival)                         
+| `carrier_delay`=Delay minutes due to carrier                             
+| `weather_delay`=Delay minutes due to weather                            
+| `nas_delay`=Delay minutes due to NAS                                 
+| `security_delay`= Delay minutes due to security breach                        
+| `late_aircraft_delay`=Delay minutes due to incoming aircraft delays            
