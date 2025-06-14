@@ -11,10 +11,15 @@ https://www.kaggle.com/datasets/eugeniyosetrov/airline-delays
 
 ### Key insights 
 Which airlines experienced the most delays and cancellations in December 2019 and 2020 ?
+
 What is the average number of minutes delayed among different airlines? Which had the most average minute delay?
+
 Which airline demonstrated superior performance , as measured by the lowest average delay time and number of cancellations  during that period time ?
+
 What were the primary causes of the delays across different airlines and airports ? 
+
 How did the average number of minutes of flight delays vary between airlines from December 2019 to December 2020?
+
 ### Tools 
 Microsoft Excel: Data cleaning, Pivot tables, Visualisation and calculations.
 
